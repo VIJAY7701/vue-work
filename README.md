@@ -1,4 +1,4 @@
-# collegebuddy
+# Applore
 
 ## Project setup
 ```
